@@ -21,9 +21,15 @@
   },
   {
     "featureType": "poi",
-    "zooms": "1-16",
+    "zooms": "1-17",
     "stylers": {
       "visibility": "off"
+    }
+  },
+  {
+    "featureType": "poi.foodservice",
+    "stylers": {
+      "icon": "https://kovchiy.github.io/mapkitstyle/poi-foodservice.png",
     }
   },
   {
