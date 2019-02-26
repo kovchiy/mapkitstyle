@@ -80,21 +80,21 @@
   {
     "featureType": "label",
     "stylers": {
-      "color": "#C4BFA7",
+      "color": "#C0BCAC",
       "outline-color": "rgba(255,255,255,0)"
     }
   },
   {
     "featureType": "label.transport",
     "stylers": {
-      "color": "#C4BFA7",
+      "color": "#C0BCAC",
       "outline-color": "rgba(255,255,255,0)"
     }
   },
   {
     "featureType": "label.urban-area",
     "stylers": {
-      "color": "#C4BFA7",
+      "color": "#C0BCAC",
       "outline-color": "rgba(255,255,255,0)"
     }
   },
@@ -107,7 +107,7 @@
   {
     "featureType": "label.road",
     "stylers": {
-      "color": "#9E9983",
+      "color": "#999588",
       "outline-color": "rgba(255,255,255,0.75)"
     }
   },
