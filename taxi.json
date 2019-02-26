@@ -8,7 +8,9 @@
   {
     "featureType": "building",
     "stylers": {
-      "color": "#f3f0e7"
+      "color": "#f3f0e7",
+      "outline-color": "#cecabb",
+      "outline-width": "0.5"
     }
   },
   {
