@@ -39,6 +39,12 @@
     }
   },
   {
+    "featureType": "poi.metro",
+    "stylers": {
+      "opacity": 0.5
+    }
+  },
+  {
     "featureType": "poi",
     "zooms": "1-17",
     "stylers": {
