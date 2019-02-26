@@ -156,6 +156,18 @@
     }
   },
   {
+    "featureType": "road.local.direction",
+    "stylers": {
+      "color": "#C0BCAC",
+    }
+  },
+  {
+    "featureType": "road.highway.direction",
+    "stylers": {
+      "color": "#C0BCAC",
+    }
+  },
+  {
     "featureType": "label.station",
     "zooms": "1-16",
     "stylers": {
