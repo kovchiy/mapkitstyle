@@ -59,22 +59,6 @@
     }
   },  
   {
-    "featureType": "road",
-    "stylers": {
-      "color": "#ffffff",
-      "outline-color": "#ddd9ca",
-      "outline-width": 4
-    }
-  },
-  {
-    "featureType": "road.highway",
-    "stylers": {
-      "color": "#ffffff",
-      "outline-color": "#ddd9ca",
-      "outline-width": 4
-    }
-  },
-  {
     "featureType": "road.local.pedestrian",
     "stylers": {
       "visibility": "off"
