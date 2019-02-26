@@ -56,19 +56,19 @@
   {
     "featureType": "admin",
     "stylers": {
-      "color": "#FAF8F0"
+      "color": "#F9F7F2"
     }
   },
   {
     "featureType": "urban-area",
     "stylers": {
-      "color": "#FAF8F0"
+      "color": "#F9F7F2"
     }
   },
   {
     "featureType": "urban-area.industrial",
     "stylers": {
-      "color": "#FAF8F0"
+      "color": "#F9F7F2"
     }
   },  
   {
