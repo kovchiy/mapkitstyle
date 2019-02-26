@@ -96,14 +96,7 @@
       "color": "#C0BCAC",
       "outline-color": "rgba(255,255,255,0)"
     }
-  },
-    {
-    "featureType": "label.transport.station.metro",
-    "stylers": {
-      "color": "#C0BCAC",
-      "outline-color": "rgba(255,255,255,0)"
-    }
-  },
+  },  
   {
     "featureType": "label.urban-area",
     "stylers": {
@@ -112,7 +105,32 @@
     }
   },
   {
+    "featureType": "label.transport.station.metro",
+    "stylers": {
+      "color": "#C0BCAC",
+      "opacity": 0.5
+    }
+  },
+  {
     "featureType": "label.transport.station.bus",
+    "stylers": {
+      "opacity": 0.5
+    }
+  },
+  {
+    "featureType": "label.transport.station.waterway",
+    "stylers": {
+      "opacity": 0.5
+    }
+  },
+  {
+    "featureType": "label.transport.station.airport",
+    "stylers": {
+      "opacity": 0.5
+    }
+  },
+  {
+    "featureType": "label.transport.station.railway",
     "stylers": {
       "opacity": 0.5
     }
