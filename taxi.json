@@ -91,6 +91,13 @@
       "outline-color": "rgba(255,255,255,0)"
     }
   },
+    {
+    "featureType": "label.transport.station",
+    "stylers": {
+      "color": "#C0BCAC",
+      "outline-color": "rgba(255,255,255,0)"
+    }
+  },
   {
     "featureType": "label.urban-area",
     "stylers": {
