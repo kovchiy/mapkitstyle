@@ -29,7 +29,7 @@
   {
     "featureType": "vegetation",
     "stylers": {
-      "color": "#D5F1D6"
+      "color": "#CEEDD1"
     }
   },
   {
@@ -80,7 +80,7 @@
   {
     "featureType": "road.local.pedestrian",
     "stylers": {
-      "visibility": "off"
+      "outline-color": "#E4E0D2"
     }
   },
   {
