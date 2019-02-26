@@ -74,7 +74,14 @@
     }
   },
   {
-    "featureType": "label.poi",
+    "featureType": "label.transport",
+    "stylers": {
+      "color": "#9E9983",
+      "outline-color": "rgba(255,255,255,0)"
+    }
+  },
+  {
+    "featureType": "label.urban-area",
     "stylers": {
       "color": "#9E9983",
       "outline-color": "rgba(255,255,255,0)"
