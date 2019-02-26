@@ -14,6 +14,20 @@
     }
   },
   {
+    "featureType": "road",
+    "stylers": {
+      "color": "#ffffff",
+      "outline-color": "#ddd9ca"
+    }
+  },
+  {
+    "featureType": "road.highway",
+    "stylers": {
+      "color": "#ffffff",
+      "outline-color": "#ddd9ca"
+    }
+  },
+  {
     "featureType": "vegetation",
     "stylers": {
       "color": "#c7e7cb"
