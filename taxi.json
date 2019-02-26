@@ -14,12 +14,12 @@
   {
     "featureType": "vegetation",
     "stylers": {
-      "color": "#CEEDD1"
+      "color": "#c7e7cb"
     }
   },
   {
     "featureType": "poi",
-    "zooms": "1-18",
+    "zooms": "1-16",
     "stylers": {
       "visibility": "off"
     }
@@ -27,7 +27,7 @@
   {
     "featureType": "admin",
     "stylers": {
-      "color": "#faf8f0"
+      "color": "#f9f7f2"
     }
   },
   {
@@ -70,7 +70,14 @@
   {
     "featureType": "label",
     "stylers": {
-      "color": "#75705e",
+      "color": "#9E9983",
+      "outline-color": "rgba(255,255,255,0)"
+    }
+  },
+  {
+    "featureType": "label.poi",
+    "stylers": {
+      "color": "#9E9983",
       "outline-color": "rgba(255,255,255,0)"
     }
   },
@@ -83,7 +90,7 @@
   {
     "featureType": "label.road",
     "stylers": {
-      "color": "#75705e",
+      "color": "#9E9983",
       "outline-color": "rgba(255,255,255,0.75)"
     }
   },
@@ -103,6 +110,7 @@
   },
   {
     "featureType": "label.station",
+    "zooms": "1-16",
     "stylers": {
       "visibility": "off"
     }
@@ -121,7 +129,7 @@
   },
   {
     "featureType": "label.transport",
-    "zooms": "1-18",
+    "zooms": "1-16",
     "stylers": {
       "visibility": "off"
     }
