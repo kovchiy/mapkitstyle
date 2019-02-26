@@ -17,14 +17,14 @@
     "featureType": "road",
     "stylers": {
       "color": "#ffffff",
-      "outline-color": "#ddd9ca"
+      "outline-color": "#EDE9D5"
     }
   },
   {
     "featureType": "road.highway",
     "stylers": {
       "color": "#ffffff",
-      "outline-color": "#ddd9ca"
+      "outline-color": "#EDE9D5"
     }
   },
   {
