@@ -107,7 +107,6 @@
   {
     "featureType": "label.transport.station.metro",
     "stylers": {
-      "color": "#C0BCAC",
       "opacity": 0.5
     }
   },
