@@ -114,7 +114,7 @@
   {
     "featureType": "label.transport.station.bus",
     "stylers": {
-      "visibility": "off"
+      "opacity": 0.5
     }
   },
   {
