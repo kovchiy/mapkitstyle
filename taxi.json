@@ -152,7 +152,7 @@
     }
   },
   {
-    "featureType": "transport",
+    "featureType": "transport2",
     "stylers": {
       "visibility": "off"
     }
