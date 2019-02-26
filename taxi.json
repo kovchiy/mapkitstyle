@@ -48,19 +48,16 @@
     "featureType": "road",
     "stylers": {
       "color": "#ffffff",
-      "outline-color": "#ddd9ca"
+      "outline-color": "#ddd9ca",
+      "outline-width": "1",
     }
   },
   {
     "featureType": "road.highway",
-    "selector": {
-      "attribute": "func_class",
-      "operator": "equal",
-      "value": 1
-    },
     "stylers": {
       "color": "#ffffff",
-      "outline-color": "#ddd9ca"
+      "outline-color": "#ddd9ca",
+      "outline-width": "1",
     }
   },
   {
