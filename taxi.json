@@ -43,19 +43,19 @@
   {
     "featureType": "admin",
     "stylers": {
-      "color": "#F3F0E7"
+      "color": "#FAF8F0"
     }
   },
   {
     "featureType": "urban-area",
     "stylers": {
-      "color": "#F3F0E7"
+      "color": "#FAF8F0"
     }
   },
   {
     "featureType": "urban-area.industrial",
     "stylers": {
-      "color": "#F3F0E7"
+      "color": "#FAF8F0"
     }
   },  
   {
@@ -63,7 +63,7 @@
     "stylers": {
       "color": "#ffffff",
       "outline-color": "#ddd9ca",
-      "outline-width": 1
+      "outline-width": 4
     }
   },
   {
@@ -71,7 +71,7 @@
     "stylers": {
       "color": "#ffffff",
       "outline-color": "#ddd9ca",
-      "outline-width": 1
+      "outline-width": 4
     }
   },
   {
