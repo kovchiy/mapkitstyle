@@ -81,21 +81,21 @@
   {
     "featureType": "label",
     "stylers": {
-      "color": "#9E9983",
+      "color": "#C4BFA7",
       "outline-color": "rgba(255,255,255,0)"
     }
   },
   {
     "featureType": "label.transport",
     "stylers": {
-      "color": "#9E9983",
+      "color": "#C4BFA7",
       "outline-color": "rgba(255,255,255,0)"
     }
   },
   {
     "featureType": "label.urban-area",
     "stylers": {
-      "color": "#9E9983",
+      "color": "#C4BFA7",
       "outline-color": "rgba(255,255,255,0)"
     }
   },
