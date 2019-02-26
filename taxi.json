@@ -29,7 +29,9 @@
   {
     "featureType": "poi.foodservice",
     "stylers": {
-      "icon": "https://kovchiy.github.io/mapkitstyle/poi-foodservice.png"
+      "icon": "https://kovchiy.github.io/mapkitstyle/poi-foodservice.png",
+      "icon-anchor": [0.5, 0.5],
+      "icon-scale": 2
     }
   },
   {
