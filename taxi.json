@@ -21,6 +21,12 @@
   },
   {
     "featureType": "poi",
+    "stylers": {
+      "opacity": 0.4
+    }
+  },
+  {
+    "featureType": "poi",
     "zooms": "1-17",
     "stylers": {
       "visibility": "off"
